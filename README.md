@@ -1,4 +1,4 @@
-#Mini Mundo
+# Mini Mundo
 
 ## Autor: Benjamín Cruz
 ## Matrícula: A01747811
