@@ -9,4 +9,5 @@ ___
 ___
 ### Link a Drive
 La razón de esto es debido al gran tamaño que tienen los objetos que se usaron en este proyeto de Unity. El archivo tiene extensión ZIP para después descomprimirse.
-/ Link de Drive
+*Link de Drive:*
+https://drive.google.com/drive/folders/1Q5FoCjjyU9CcypBGvJuKTGcv1hByfd-m?usp=sharing
